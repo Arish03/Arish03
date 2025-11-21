@@ -45,29 +45,15 @@
 <h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="32"> Connect With Me</h2>
 
 <div align="left">
-  <a href="mailto:arishsrinivasank@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" /></a>
+   <a href="mailto:arishsrinivasan@outlook.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/outlook/default.svg" width="52" /></a>
   <a href="https://www.linkedin.com/in/arishsrinivasank/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" /></a>
 </div>
 
 ##
 
-<h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="32"> My GitHub Stats</h2>
 
-<div align="left">
- <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arish03&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="160" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=Arish03&layout=compact&theme=github_dark&hide_border=true" height="180" />
- </p>
- <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Arish03&show_icons=true&theme=github_dark&hide_border=true" height="160" />
-  <img src="https://streak-stats.demolab.com?user=Arish03&theme=github_dark&hide_border=true" height="180" />
- </p>
-</div>
 
-##
 
-<h2 align="center">Visitors Count</h2>
-<p align="center"><img src="https://profile-counter.glitch.me/{Arish03}/count.svg" /></p>
 
 
 <p align="right">Created with ❤️ by Arish</p>
