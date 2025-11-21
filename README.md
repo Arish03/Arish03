@@ -1,82 +1,78 @@
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%">
+<!-- Banner GIF Optional -->
 
-<h1 align="center">Hi 👋, I'm Arish</h1>
-<h3 align="center">AI & Full‑Stack Developer from India</h3>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Arish03&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
-<p align="center">I love building intelligent systems, modern UIs, automation tools, and real‑world solutions using AI. Passionate about React, Node.js, Machine Learning, and creating meaningful tech that solves real problems. Let's build something cool together! 🚀</p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Arish!;AI+%26+Full+Stack+Developer!" />
+</h1>
 
+<h3 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47d/512.gif" width="32" height="32"> A Software Engineer from India!</h3>
 
+##
 
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50" height="50" />
+* 🚀 Working on **AI Website Builder & AI Video Real-vs-AI Detector**
+* 🌱 Currently learning **Advanced React, TensorFlow.js, AI Agents**
+* 💬 Ask me about **React, Node.js, MongoDB, UI/UX, AI/ML**
+* 📫 Reach me at **[arishsrinivasank@gmail.com](mailto:arishsrinivasank@gmail.com)**
+
+##
+
+<h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c1/512.gif" width="32"> Portfolio & Resume</h2>
+
+* 📌 LinkedIn → [Click Here](https://www.linkedin.com/in/arishsrinivasank/)
+* 📌 Resume → *(share link if you want to include)*
+
+##
+
+<h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48e/512.gif" width="32"> Projects</h2>
+
+* 📌 **AI Website Builder** – Generates modular React UI with Live Preview.
+* 📌 **AI Video Detector** – Detects if video is real or AI-generated.
+* 📌 **Laundry Service App** – Mobile app for hostel/PG residents.
+* 📌 **Drone-based Wind Turbine Inspector** – Concept + UI design.
+
+##
+
+<h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" width="32"> Languages & Tools</h2>
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,nextjs,nodejs,express,mongodb,mysql,python,java,git,github,vscode,docker,kubernetes,aws,gcp,firebase" />
 </div>
 
-<br>
+##
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=aws" width="50" />
-  <img src="https://skillicons.dev/icons?i=docker" width="50" />
-  <img src="https://skillicons.dev/icons?i=github" width="50" />
-  <img src="https://skillicons.dev/icons?i=gcp" width="50" />
-  <img src="https://skillicons.dev/icons?i=firebase" width="50" />
+<h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="32"> Connect With Me</h2>
+
+<div align="left">
+  <a href="mailto:arishsrinivasank@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" /></a>
+  <a href="https://www.linkedin.com/in/arishsrinivasank/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" /></a>
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-<br><br>
+##
 
-* 🔭 I’m currently building **AI Website Builder & AI Video Reality Detector**
-* 🌱 Learning **AI Agents, TensorFlow.js, Advanced React**
-* 💬 Ask me about **React, Node.js, MongoDB, AI/ML, UI/UX**
-* 📄 See my experience on **LinkedIn**
-* 😄 Pronouns: **He/Him**
+<h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="32"> My GitHub Stats</h2>
 
-<br>
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_LINK" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" width="80" /></a>
-<a href="https://twitter.com/YOUR_TWITTER" target="_blank"><img src="https://img.shields.io/badge/Twitter-%23000000?logo=x&logoColor=white" width="80" /></a>
-<a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" width="80" /></a>
-</p>
+<div align="left">
+ <p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arish03&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="160" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Arish03&layout=compact&theme=github_dark&hide_border=true" height="180" />
+ </p>
+ <p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Arish03&show_icons=true&theme=github_dark&hide_border=true" height="160" />
+  <img src="https://streak-stats.demolab.com?user=Arish03&theme=github_dark&hide_border=true" height="180" />
+ </p>
+</div>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<h3 align="left">💻 Languages and Tools</h3>
-
-* **Frontend**
-
-<p><img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,nextjs" /></p>
-
-* **Backend**
-
-<p><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" /></p>
-
-* **Cloud & DevOps**
-
-<p><img src="https://skillicons.dev/icons?i=aws,gcp,firebase,docker,kubernetes" /></p>
-
-* **Tools**
-
-<p><img src="https://skillicons.dev/icons?i=git,github,figma,vscode,linux" /></p>
-
-<br>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<h3 align="left">📊 GitHub Stats</h3>
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=nightowl&hide_border=false" width="45%">    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=nightowl&hide_border=false" width="49%">
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=nightowl&layout=compact&hide_border=false" width="40%">   <img src="https://github-contributor-stats.vercel.app/api?username=YOUR_USERNAME&limit=5&theme=nightowl" width="45%">
-
-<br><br>
+##
 
 <h2 align="center">Visitors Count</h2>
-<p align="center"><img src="https://profile-counter.glitch.me/{YOUR_USERNAME}/count.svg" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Arish03}/count.svg" /></p>
+
+<div align="center">
+    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" />
+    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" />
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" />
+    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" />
+</div>
 
 <p align="right">Created with ❤️ by Arish</p>
