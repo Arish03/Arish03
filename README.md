@@ -20,6 +20,7 @@
 <h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c1/512.gif" width="32"> Portfolio & Resume</h2>
 
 * 📌 LinkedIn → [Click Here](https://www.linkedin.com/in/arishsrinivasank/)
+* 📌 Github → [Click Here](https://github.com/Arish03)
 * 📌 Resume → *(share link if you want to include)*
 
 ##
@@ -33,7 +34,7 @@
 
 ##
 
-<h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" width="32"> Languages & Tools</h2>
+<h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" width="42"> Languages & Tools</h2>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,nextjs,nodejs,express,mongodb,mysql,python,java,git,github,vscode,docker,kubernetes,aws,gcp,firebase" />
