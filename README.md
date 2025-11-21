@@ -27,10 +27,38 @@
 
 <h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48e/512.gif" width="32"> Projects</h2>
 
-* 📌 **AI Website Builder** – Generates modular React UI with Live Preview.
-* 📌 **AI Video Detector** – Detects if video is real or AI-generated.
-* 📌 **Laundry Service App** – Mobile app for hostel/PG residents.
-* 📌 **Drone-based Wind Turbine Inspector** – Concept + UI design.
+## 🌟 Projects
+
+### 1. 🚀 **AI Website Builder**
+
+A powerful **AI-powered website generator** that creates clean, modular **React.js code** with:
+
+* Drag‑and‑drop UI builder
+* Live editing & real‑time preview
+* Auto‑generated component structure
+* Export/Download project feature
+
+**Technologies Used**: React, Node.js, Gemini AI, TensorFlow.js, MongoDB
+
+**Skills Gained**: AI code generation, UI/UX, component architecture
+
+> Check out the project *(repo link coming soon)*
+
+### 2. 🎥 **AI Video Reality Detector**
+
+A smart system that detects whether a video is **AI-generated or real**, using deep learning and CV techniques. Designed to analyze patterns, artifacts, and distortions in AI‑generated footage.
+
+**Technologies Used**: Python, HuggingFace Models, TensorFlow.js, OpenCV
+
+**Skills Gained**: ML model training, dataset preparation, video analysis
+
+> Repo link will be added once published
+
+<h2>>><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" width="32"> Languages & Tools</h2>
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,nextjs,nodejs,express,mongodb,mysql,python,java,git,github,vscode,docker,kubernetes,aws,gcp,firebase" />
+</div>
 
 ##
 
