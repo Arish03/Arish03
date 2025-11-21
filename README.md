@@ -51,7 +51,23 @@ A smart system that detects whether a video is **AI-generated or real**, using d
 
 **Skills Gained**: ML model training, dataset preparation, video analysis
 
-> Repo link will be added once published
+> 🚧 Project currently in development
+
+### 3. 💼 **Freelancer Hub**
+
+A clean, modern platform designed to connect **freelancers** with **clients**. It focuses on simplicity, smooth workflow, and real-time collaboration.
+
+* Create & customize freelancer profiles
+* Browse available projects posted by clients
+* Secure client–freelancer chat
+* Project tracking dashboard
+
+**Technologies Used**: React.js, Node.js, MongoDB, Tailwind CSS
+
+**Skills Gained**: Full-stack workflow design, authentication, responsive UI, REST API integration
+
+> 🚧 Project currently in development
+
 
 ##
 
