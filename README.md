@@ -27,7 +27,6 @@
 
 <h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48e/512.gif" width="32"> Projects</h2>
 
-## 🌟 Projects
 
 ### 1. 🚀 **AI Website Builder**
 
