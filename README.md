@@ -68,11 +68,5 @@
 <h2 align="center">Visitors Count</h2>
 <p align="center"><img src="https://profile-counter.glitch.me/{Arish03}/count.svg" /></p>
 
-<div align="center">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" />
-    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" />
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" />
-    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" />
-</div>
 
 <p align="right">Created with ❤️ by Arish</p>
