@@ -5,10 +5,7 @@
 
 <p align="center">I love building intelligent systems, modern UIs, automation tools, and real‑world solutions using AI. Passionate about React, Node.js, Machine Learning, and creating meaningful tech that solves real problems. Let's build something cool together! 🚀</p>
 
-<p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
- <img src="https://img.shields.io/github/followers/YOUR_USERNAME" />
-</p>
+
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" />
