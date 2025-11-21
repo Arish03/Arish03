@@ -53,12 +53,6 @@ A smart system that detects whether a video is **AI-generated or real**, using d
 
 > Repo link will be added once published
 
-<h2>>><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" width="32"> Languages & Tools</h2>
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,nextjs,nodejs,express,mongodb,mysql,python,java,git,github,vscode,docker,kubernetes,aws,gcp,firebase" />
-</div>
-
 ##
 
 <h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" width="42"> Languages & Tools</h2>
