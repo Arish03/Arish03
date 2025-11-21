@@ -13,7 +13,7 @@
 * 🚀 Working on **AI Website Builder & AI Video Real-vs-AI Detector**
 * 🌱 Currently learning **Advanced React, TensorFlow.js, AI Agents**
 * 💬 Ask me about **React, Node.js, MongoDB, UI/UX, AI/ML**
-* 📫 Reach me at **[arishsrinivasank@gmail.com](mailto:arishsrinivasank@gmail.com)**
+* 📫 Reach me at **[arishsrinivasan@outlook.com](mailto:arishsrinivasan@outlook.com)**
 
 ##
 
