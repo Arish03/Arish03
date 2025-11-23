@@ -80,9 +80,9 @@ A smart system that detects whether a video is **AI-generated or real**, using d
 ##
 
 ## 💭 Languages and Stats:
+<h1> My Github Readme Stats </h1>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=Devamani11D&show_icons=true&locale=en" alt="GitHub Stats"/>
 
-![](https://github-readme-stats.vercel.app/api?username=Arish03\&theme=buefy\&hide_border=true\&show_icons=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arish03\&theme=buefy\&hide_border=true\&include_all_commits=true\&count_private=true\&layout=compact)
 
 <h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="32"> Connect With Me</h2>
 
