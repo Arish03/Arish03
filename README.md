@@ -10,8 +10,8 @@
 
 ##
 
-* 🚀 Working on **AI Website Builder & AI Video Real-vs-AI Detector**
-* 🌱 Currently learning **Advanced React, TensorFlow.js, AI Agents**
+* 🚀 Working on **AI Video Real-vs-AI Detector & Aurafix**
+* 🌱 Currently learning **Advanced React,ML, AI Agents**
 * 💬 Ask me about **React, Node.js, MongoDB, UI/UX, AI/ML**
 * 📫 Reach me at **[arishsrinivasan@outlook.com](mailto:arishsrinivasan@outlook.com)**
 
@@ -28,20 +28,20 @@
 <h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48e/512.gif" width="32"> Projects</h2>
 
 
-### 1. 🚀 **AI Website Builder**
+### 1. 🚀 **AI Website Builder (Webgen)  **
 
 A powerful **AI-powered website generator** that creates clean, modular **React.js code** with:
 
-* Drag‑and‑drop UI builder
+* Text to Website UI builder
 * Live editing & real‑time preview
 * Auto‑generated component structure
 * Export/Download project feature
 
-**Technologies Used**: React, Node.js, Gemini AI, TensorFlow.js, MongoDB
+**Technologies Used**: React, Node.js, Gemini AI, MongoDB
 
 **Skills Gained**: AI code generation, UI/UX, component architecture
 
-> Check out the project *(repo link coming soon)*
+> Check out the project *(https://github.com/Arish03/Webgen-AI)*
 
 ### 2. 🎥 **AI Video Reality Detector**
 
