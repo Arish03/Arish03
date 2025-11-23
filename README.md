@@ -77,6 +77,7 @@ A smart system that detects whether a video is **AI-generated or real**, using d
   <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,nextjs,nodejs,express,mongodb,mysql,python,java,git,github,vscode,docker,kubernetes,aws,gcp,firebase" />
 </div>
 
+
 ## 🔍 What I'm Interested In
 
 ### 🤖 Artificial Intelligence & Machine Learning  
@@ -87,6 +88,8 @@ Learning and working with **cloud-based architectures**, real-time APIs, and sca
 
 ### 🌐 Open Source & Community Collaboration  
 I love contributing to open-source projects, improving codebases, and collaborating with developers across different domains. Open-source helps me learn, grow, and build meaningful solutions together.
+
+
 
 ## 💭 Languages and Stats:
 
@@ -99,7 +102,8 @@ I love contributing to open-source projects, improving codebases, and collaborat
 <div align="left">
    <a href="mailto:arishsrinivasan@outlook.com">
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftoutlook.svg" width="52" />
-       <br>
+
+       
 </a>
   <a href="https://www.linkedin.com/in/arishsrinivasank/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" /></a>
 </div>
