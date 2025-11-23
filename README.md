@@ -28,7 +28,7 @@
 <h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48e/512.gif" width="32"> Projects</h2>
 
 
-### 1. 🚀 **AI Website Builder (Webgen)  **
+### 1. 🚀 **AI Website Builder (Webgen-AI)  **
 
 A powerful **AI-powered website generator** that creates clean, modular **React.js code** with:
 
@@ -41,19 +41,9 @@ A powerful **AI-powered website generator** that creates clean, modular **React.
 
 **Skills Gained**: AI code generation, UI/UX, component architecture
 
-> Check out the project *(https://github.com/Arish03/Webgen-AI)*
+[Webgen-AI](https://github.com/Arish03/Webgen-AI)
 
-### 2. 🎥 **AI Video Reality Detector**
-
-A smart system that detects whether a video is **AI-generated or real**, using deep learning and CV techniques. Designed to analyze patterns, artifacts, and distortions in AI‑generated footage.
-
-**Technologies Used**: Python, HuggingFace Models, TensorFlow.js, OpenCV
-
-**Skills Gained**: ML model training, dataset preparation, video analysis
-
-> 🚧 Project currently in development
-
-### 3. 💼 **Freelancer Hub**
+### 2. 💼 **Freelancer_Hub**
 
 A clean, modern platform designed to connect **freelancers** with **clients**. It focuses on simplicity, smooth workflow, and real-time collaboration.
 
@@ -66,8 +56,18 @@ A clean, modern platform designed to connect **freelancers** with **clients**. I
 
 **Skills Gained**: Full-stack workflow design, authentication, responsive UI, REST API integration
 
-> 🚧 Project currently in development
+[Freelancer_Hub](https://github.com/Arish03/Freelancer_Hub)
 
+
+### 3. 🎥 **AI Video Reality Detector**
+
+A smart system that detects whether a video is **AI-generated or real**, using deep learning and CV techniques. Designed to analyze patterns, artifacts, and distortions in AI‑generated footage.
+
+**Technologies Used**: Python, HuggingFace Models, TensorFlow.js, OpenCV
+
+**Skills Gained**: ML model training, dataset preparation, video analysis
+
+> 🚧 Project currently in development
 
 ##
 
