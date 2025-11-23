@@ -11,7 +11,7 @@
 ##
 
 * 🚀 Working on **AI Video Real-vs-AI Detector & Aurafix**
-* 🌱 Currently learning **Advanced React,ML, AI Agents**
+* 🌱 Currently learning **Advanced React, ML, AI Agents**
 * 💬 Ask me about **React, Node.js, MongoDB, UI/UX, AI/ML**
 * 📫 Reach me at **[arishsrinivasan@outlook.com](mailto:arishsrinivasan@outlook.com)**
 
@@ -21,7 +21,7 @@
 
 * 📌 LinkedIn → [Click Here](https://www.linkedin.com/in/arishsrinivasank/)
 * 📌 Github → [Click Here](https://github.com/Arish03)
-* 📌 Resume → *(share link if you want to include)*
+* 📌 Resume → [Download PDF](https://github.com/Arish03/Arish03/blob/main/ARISH%20RESUME%200907.pdf)
 
 ##
 
