@@ -79,6 +79,11 @@ A clean, modern platform designed to connect **freelancers** with **clients**. I
 
 ##
 
+## 💭 Languages and Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=Arish03\&theme=buefy\&hide_border=true\&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arish03\&theme=buefy\&hide_border=true\&include_all_commits=true\&count_private=true\&layout=compact)
+
 <h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="32"> Connect With Me</h2>
 
 <div align="left">
