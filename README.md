@@ -47,7 +47,7 @@ A powerful **AI-powered website generator** that creates clean, modular **React.
 
 A clean, modern platform designed to connect **freelancers** with **clients**. It focuses on simplicity, smooth workflow, and real-time collaboration.
 
-* Create & customize freelancer profiles
+* Create & customise freelancer profiles
 * Browse available projects posted by clients
 * Secure client–freelancer chat
 * Project tracking dashboard
@@ -63,7 +63,7 @@ A clean, modern platform designed to connect **freelancers** with **clients**. I
 
 A smart system that detects whether a video is **AI-generated or real**, using deep learning and CV techniques. Designed to analyze patterns, artifacts, and distortions in AI‑generated footage.
 
-**Technologies Used**: Python, HuggingFace Models, TensorFlow.js, OpenCV
+**Technologies Used**: Python, HuggingFace Models, OpenCV
 
 **Skills Gained**: ML model training, dataset preparation, video analysis
 
@@ -78,18 +78,22 @@ A smart system that detects whether a video is **AI-generated or real**, using d
 </div>
 
 ##
+## 💭 Languages and Stats:
 
+![](https://github-readme-stats.vercel.app/api?username=Arish03\&theme=buefy\&hide_border=true\&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arish03\&theme=buefy\&hide_border=true\&include_all_commits=true\&count_private=true\&layout=compact)
 
 
 <h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="32"> Connect With Me</h2>
 
 <div align="left">
-   <a href="mailto:arishsrinivasan@outlook.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/outlook/default.svg" width="52" /></a>
+   <a href="mailto:arishsrinivasan@outlook.com">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftoutlook.svg" width="52" />
+</a>
   <a href="https://www.linkedin.com/in/arishsrinivasank/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" /></a>
 </div>
 
 ##
-
 
 
 
