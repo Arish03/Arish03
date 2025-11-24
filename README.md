@@ -28,7 +28,7 @@
 <h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48e/512.gif" width="32"> Projects</h2>
 
 
-### 1. 🚀 **AI Website Builder (Webgen-AI)  **
+### 1. 🚀 **AI Website Builder (Webgen-AI)**
 
 A powerful **AI-powered website generator** that creates clean, modular **React.js code** with:
 
